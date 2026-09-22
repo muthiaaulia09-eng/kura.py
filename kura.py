@@ -18,3 +18,5 @@ for _ in range(4):
 
 # Menjaga agar jendela tidak langsung tertutup
 turtle.done()
+
+# ini kura-kura
